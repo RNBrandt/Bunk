@@ -28,6 +28,15 @@ Scraping -
 
 
 OpenIO Platform creation -
+  Resources:
+
+  - How to:  https://github.com/open-io/oio-sds/wiki/Write-your-own-client
+
+  - API calling format: https://github.com/open-io/oio-sds/wiki/OpenIO-Proxyd-API-Reference
+
+  - Architecture: https://github.com/open-io/oio-sds/wiki/OpenIO-Architecture
+
+  - Naming conventions: https://github.com/open-io/oio-sds/wiki/OpenIO-Object-Names
 
 
 
